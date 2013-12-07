@@ -1,9 +1,7 @@
-Wooly Louie
+Arizona Innocence Project
 ---------------
 
-This is an Android app designed to boost the spirit during sporting events.
+This is the basic scaffolding for my VC333 Project 3 Assignment
 
-  - Take a picture of yourself
-  - Drag 'iron' or beard matter over your face
-  - Save your rendition
-  - Upload to NAU twitter
+  - Responsive
+  - Utilizes Twitter Bootstrap
